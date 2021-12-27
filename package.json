@@ -1,0 +1,14 @@
+{
+  "name": "clasp-add-ons",
+  "version": "1.0.0",
+  "description": "Useful Google doc Add-Ons ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.41"
+  }
+}

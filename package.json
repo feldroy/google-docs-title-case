@@ -4,7 +4,8 @@
   "description": "Useful Google doc Add-Ons ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clasp-push": "cd src && clasp push",
+    "clasp-pull": "cd src && clasp pull"
   },
   "author": "",
   "license": "ISC",

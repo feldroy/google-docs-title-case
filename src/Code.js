@@ -57,6 +57,8 @@ function toTitleCase(str) {
         "settings.py",
         "my_statement",
         "everycheese",
+        "linebreaksbr",
+        "assert",
       ];
       for (var i = 0; i < wordsToBeIgnored.length; ++i) {
         if (current === wordsToBeIgnored[i]) {
